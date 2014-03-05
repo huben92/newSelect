@@ -46,8 +46,8 @@
                 $ns.append($search);
                 $ns.append($options);
                 $ns.children('.__ns_overlay').css({
-                    height: $el.height(),
-                    width: $el.width(),
+                    height: $el.height()+2,
+                    width: $el.width()+2,
                     margin: $el.css('margin'),
                     padding: $el.css('padding'),
                     top: 0,
