@@ -1,0 +1,4 @@
+newSelect
+=========
+
+Searchable select jquery
